@@ -42,29 +42,52 @@
 ### Habilidades
 
 <div align="left">
-   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" height="80" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-   
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="65" />
-   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original-wordmark.svg" height="80" />
-   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" height="80" />
-   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" height="70" />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png"  height="40" alt="drupal logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="44" alt="sqlalchemy logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+    <br>
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="40" alt="drupal logo"  />
   <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" height="40"  />
   <img width="12" />    
-    <br>
-   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" height="90"  align='center'/>
-   <img width="12" />
-   
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original-wordmark.svg" height="80"  align='center' />
-    <img width="12" />
+
+
+
+  ### Planejo Aprender
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
+</div>
+
+###
+
+
     
   
 </div>
@@ -82,21 +105,7 @@
 </div>
 
 
-### Planejo aprender ✏
 
-
-<div align="left">
-
-
-  
-  - Mongo Db
-  - R
-  - Azure
-  - Docker
-  - AWS
-    
-  
-</div>
 
 ###
 
