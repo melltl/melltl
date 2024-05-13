@@ -66,7 +66,7 @@
 
 
 
-  ### Planejo Aprender
+  ### Aprendendo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
@@ -85,17 +85,7 @@
   
 </div>
 
-### Aprendendo ⚙
 
-<div align="left">
-
-  
-  - Statistics
-  - Machine learning
-  - Deep learning
-  - Data analysis
-
-</div>
 
 
 
