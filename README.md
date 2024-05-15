@@ -62,11 +62,14 @@
   <img width="12" />
   
   <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" height="40"  />
-  <img width="12" />    
+  <img width="10" /> 
+  <img src="Databricks_ideenCn7ZL_5.png" class="img" height="30" width="100px"/>
+  <img width="10" />   
 
 
 
   ### Aprendendo
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
