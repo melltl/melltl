@@ -63,7 +63,7 @@
   
   <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" height="40"  />
   <img width="10" /> 
-  <img src="Databricks_ideenCn7ZL_5.png" class="img" height="30" width="100px"/>
+  <img src="Databricks_ideenCn7ZL_5.png" class="img" height="25" width="auto"/>
   <img width="10" />   
 
 
