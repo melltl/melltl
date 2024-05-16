@@ -78,7 +78,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="45" alt="r logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo"  />
+    <div align="left">
+  
+</div>
+
+###
 </div>
 
 ###
