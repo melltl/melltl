@@ -58,31 +58,28 @@
   <img width="12" />
     <br>
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"  height="40" />
+          
   <img width="12" />
   
-  <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" height="40"  />
+  <img src="https://github.com/JeremyTallant/databricks_image/blob/main/seaborn-icon.svg" height="40"  />
   <img width="10" /> 
-  <img src="Databricks_ideenCn7ZL_5.png" class="img" height="25" width="auto"/>
+  <img src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" class="img" height="40" width="auto"/>
   <img width="10" />   
+  
 
+          
+          
 
 
   ### Aprendendo
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/r/276DC3" height="45" alt="r logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo"  />
-    <div align="left">
   
+
+    
+  [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,mongodb,r,tensorflow&perline=7)](https://skillicons.dev)
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="40" />
 </div>
 
 ###
