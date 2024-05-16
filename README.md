@@ -1,7 +1,7 @@
 <h2 align="center">Olá👋</h2>
 
 ###
-- Atualmente sou estudante do 5º semestre de ciência da computação e focando em data science
+- Atualmente sou estudante do 5º semestre de ciência da computação estudando machine learning deep learning e estatística. 
 
 <div align="center">
 
